@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Number -->
+    <dimen name="all">12dp</dimen>
+    <dimen name="title_size">30sp</dimen>
+    <dimen name="all_size">18sp</dimen>
+    <dimen name="bold_title">700</dimen>
+    <dimen name="regular_weight">400</dimen>
+</resources>
